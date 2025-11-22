@@ -1,0 +1,14 @@
+{
+  "name": "absolute_beginners",
+  "version": "1.0.0",
+  "description": "The essencial npm Comands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jardel Elias Bernardo",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^5.1.0"
+  }
+}
